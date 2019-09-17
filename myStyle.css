@@ -10,7 +10,7 @@
 }
 
 #aboutMe{
-    padding-top: 80%;
+    padding-top: 30%;
     width: 90%;
     height: 20%;
     position: absolute;
@@ -44,7 +44,7 @@
 
 #projects{
     color:white;
-    padding-top:80%;
+    padding-top:60%;
 }
 
 .bio{
@@ -56,7 +56,7 @@
 body{
     background-color: black;
     width:100%;
-    height:100%;
+  /*  height:100%;*/
     margin: 0px auto;
     max-height:100%;
     max-width: 100%;
