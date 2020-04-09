@@ -9,7 +9,7 @@
 
 
 
-const btn = document.querySelector('#displayResume')
+const btn = document.getElementById('displayResume')
 console.log(btn)
 btn.addEventListener('click', function(){
     const resume = document.getElementById("resume");
