@@ -7,7 +7,9 @@
     }
 }*/
 
-const btn = document.querySelector('displayResume')
+
+
+const btn = document.querySelector('#displayResume')
 console.log(btn)
 btn.addEventListener('click', function(){
     const resume = document.getElementById("resume");
