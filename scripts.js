@@ -8,6 +8,7 @@
 }*/
 
 const btn = document.querySelector('displayResume')
+console.log(btn)
 btn.addEventListener('click', function(){
     const resume = document.getElementById("resume");
     if(resume.style.display=="none"){
